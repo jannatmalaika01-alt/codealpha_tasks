@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order using the tracking link sent to your registered email."
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return eligible products within 7 days of delivery."
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "You can cancel your order before it is shipped by contacting our support team."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, debit cards, bank transfers, and cash on delivery."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery usually takes 3 to 5 business days."
+  },
+  {
+    "question": "Do you offer free shipping?",
+    "answer": "Free shipping is available on orders above $50."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact our customer support team through email or our website."
+  },
+  {
+    "question": "What should I do if I receive a damaged product?",
+    "answer": "Please contact our support team within 48 hours of delivery with pictures of the damaged product."
+  },
+  {
+    "question": "Can I change my delivery address?",
+    "answer": "You can request an address change before your order is shipped."
+  },
+  {
+    "question": "How can I get a refund?",
+    "answer": "Once your return is approved, your refund will be processed within 5 to 7 business days."
+  }
+]
